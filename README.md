@@ -1,8 +1,9 @@
 # Binary Reading List
 *Things I know and will have to know about binaries.*
 
-### Books
-- [Reverse Engineering for Beginners](https://beginners.re/) -- by Dennis Yurichev
+### Shellcoding
+- [Bypassing MSB Data Filters for Buffer Overflow Exploits on 
+  Intel Platforms](http://julianor.tripod.com/bc/bypass-msb.txt) -- by Riley "caezar" Eller
 
 ### Courses
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) -- by RPISEC
