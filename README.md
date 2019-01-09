@@ -4,6 +4,7 @@
 ### Shellcoding
 - [Bypassing MSB Data Filters for Buffer Overflow Exploits on 
   Intel Platforms](http://julianor.tripod.com/bc/bypass-msb.txt) -- by Riley "caezar" Eller
+- [ASCII Shellcode](https://grubbyzj.wordpress.com/2010/06/22/how-to-create-an-ascii-shellcode/) -- by Grubbyzj
 
 ### Courses
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) -- by RPISEC
